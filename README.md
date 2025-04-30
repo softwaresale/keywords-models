@@ -20,6 +20,6 @@ TF-IDF Accuracy:
 
 T5 Accuracy:
 
-Abstract: 0.400
+Abstract: 0.384
 
-Body: 0.374
+Body: 0.352
