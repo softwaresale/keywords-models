@@ -17,3 +17,9 @@ or something like that. Check what's actually there.
 TF-IDF Accuracy:
 
 <img width="716" alt="IMG_4700" src="https://github.com/user-attachments/assets/dd7156c0-7e6a-49fd-a2c4-db342eb7d98d" />
+
+T5 Accuracy:
+
+Abstract: 0.400
+
+Body: 0.374
