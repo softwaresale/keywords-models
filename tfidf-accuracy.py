@@ -57,7 +57,6 @@ def main():
     map_abstract = mean_average_precision(data, field="top_keywords_abstract")
     map_content = mean_average_precision(data, field="top_keywords_content")
 
-    print(f"MAP (combined): {map_combined:.4f}")
     print(f"MAP (abstract): {map_abstract:.4f}")
     print(f"MAP (content): {map_content:.4f}")
 
